@@ -5,6 +5,8 @@ class Medium
     System.out.println("Test");
     int a;
     int b;
-    ik
+    int c;
+    int d;
+    
   }
 }
